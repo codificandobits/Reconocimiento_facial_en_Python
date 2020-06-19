@@ -1,6 +1,6 @@
 # Reconocimiento Facial en Python
 
-Código fuente de [este](https://youtu.be/fnV6r26uBSs) video, en donde se muestra cómo implementar un sistema de reconocimiento facial usando las librerías TensorFlow y Keras.
+Código fuente en donde se muestra cómo implementar un sistema de reconocimiento facial usando las librerías TensorFlow y Keras.
 
 Para la detección de rostros y el reconocimiento facial se usan dos modelos previamente entrenados, que pueden ser descargados de estos enlaces:
 
